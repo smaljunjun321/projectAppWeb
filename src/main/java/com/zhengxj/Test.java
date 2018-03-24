@@ -5,4 +5,8 @@ package com.zhengxj;
  */
 
 public class Test {
+
+    String ddd;
+
+
 }
