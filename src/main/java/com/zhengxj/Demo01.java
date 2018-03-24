@@ -8,6 +8,7 @@ public class Demo01 {
         int a=0;
         int b=3;
         int temp=a-b;
+
         for (int i=0;i<10;i++) {
 
         }
