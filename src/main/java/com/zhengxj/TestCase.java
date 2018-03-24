@@ -5,7 +5,7 @@ public class TestCase {
 
 
         System.out.println("Hello World!");
-        System.out.println("dev版本中修改了");
+        //System.out.println("dev版本中修改了");
     }
 
 }
